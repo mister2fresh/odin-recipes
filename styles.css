@@ -1,3 +1,12 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
 * {
     font-family: 'Brush Script MT', 'Times New Roman', Times, serif;
     font-size: 36px;
@@ -21,4 +30,5 @@ img {
 
 ul {
     text-align: center;
+    display: inline;
 }
