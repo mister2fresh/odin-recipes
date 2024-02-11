@@ -1,20 +1,24 @@
-*
-{
+* {
     font-family: 'Brush Script MT', 'Times New Roman', Times, serif;
     font-size: 36px;
     color: rgb(33, 228, 82);
-    background-color: black;
-    
+    background-color: black;  
 }
 
-h1 
-{
+h1 {
     font-size: 42px;
     font-weight: bold;
     text-align: center
 }
 
-h2
-{
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+ul {
     text-align: center;
 }
