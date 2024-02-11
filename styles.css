@@ -32,3 +32,8 @@ ul {
     text-align: center;
     display: inline;
 }
+
+button {
+    background-color: rgb(0, 0, 255);
+  
+}

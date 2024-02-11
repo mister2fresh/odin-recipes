@@ -1,3 +1,13 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
 * {
     font-family: 'Times New Roman', Times, serif;
     font-size: 24px;
@@ -19,6 +29,7 @@ h1 {
 
 h2 {
     text-align: center;
+   
 }
 
 p {
@@ -26,10 +37,9 @@ p {
 
 }
 
-.blocks {
-    display: inline-block;
+ul
+{
+    text-align: center;
+    display: inline;
 }
-
-.blocks2 {
-    display: inline-block;
-}
+   
